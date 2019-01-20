@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CrimeSeen Quiz</string>
+    <string name="question_metropolitan">According to the CRIMESEEN crime detection algorithms West Humber-Claireville has the highest crime rating.</string>
+    <string name="question_police">The police service headquarters are located on Yonge Street.</string>
+    <string name="question_toronto">According to Maclean\'s, Toronto is the 124th most crime ridden city in Canada.</string>
+    <string name="question_homocides">The number of homicides have increased from 2017 to 2018.</string>
+    <string name="question_canada">Toronto\'s crime severity index is higher than the national average.</string>
+    <string name="question_curfew">There is an Ontario wide curfew for people under the age of 16.</string>
+    <string name ="question_york">Yorkdale-Glen Park has the least amount of stolen cars in the Toronto Metropolitan Area.</string>
+    <string name =  "true_button">true</string>
+    <string name ="question_baystreet">The most dangerous place for assaults in the Toronto Metropolitan Area is the Bay Street Corridor.</string>
+    <string name ="question_trafficking">Ottawa and Brampton are some of the worst cities for human traficking.</string>
+    <string name ="question_islington">Islington City West has the highest rates for breaking and entering.</string>
+    <string name ="question_hillcrest">Hillcrest Village has the highest rate drug trafficking.</string>
+    <string name ="question_stolencar">Yorkdale-Glen Park as the least amount of stolen cars in the Toronto Metropolitan Area.</string>
+    <string name ="question_caledon">Caledon has almost no crime.</string>
+    <string name ="question_gta">Caledon is believed to have the highest percentage of murderers in the GTA.</string>
+    <string name ="question_kingswaysouth">Kingsway South has high sexual assault risk based on data.</string>
+    <string name ="question_burlington">Burlington has high concentration of breaking and entering.</string>
+    <string name ="question_hatecrime">Mississauga has seen large increase of hate crimes over the past couple years.</string>
+    <string name ="false_button">False</string>
+    <string name = "correct_toast">Correct!</string>
+    <string name = "incorrect_toast">Incorrect!</string>
+    <string name = "next_button">Next></string>
+</resources>
