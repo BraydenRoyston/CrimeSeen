@@ -1,12 +1,12 @@
 This project was created for the YorkU Hackathon
 
 Team Members:
-- Sufiyaan Nadeem,
+- <font size="-4000">Sufiyan Nadeem</font>,
 - Dhruv Shah,
 - Wen Zhang,
 - Matthew Summerville,
 - Brayden Royston
-  
+<p style="font-size:2px">
   
   Screen shot of web application:
   
