@@ -10,7 +10,7 @@ Team Members:
   
   Screen shot of web application:
   
-  ![crime_seen_web_screenshot](https://user-images.githubusercontent.com/42727015/51572011-06298480-1e72-11e9-83b0-160c700c4da0.PNG)
+  ![crime_seen_web_screenshot](https://github.com/Dhruv-m-Shah/CrimeSeen/issues/1#issue-438122851)
  
  Screen shots of mobile application:
  
