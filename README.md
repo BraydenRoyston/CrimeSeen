@@ -1,7 +1,7 @@
 This project was created for the YorkU Hackathon
 
 Team Members:
-- <font size="-4000">Sufiyan Nadeem</font>,
+- <font size="-4000">Sufiyaan Nadeem</font>,
 - Dhruv Shah,
 - Wen Zhang,
 - Matthew Summerville,
