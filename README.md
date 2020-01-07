@@ -1,4 +1,6 @@
-This project was created for the YorkU Hackathon
+# CrimeSeen
+
+This application processes data collected from [Toronto Police Data](http://data.torontopolice.on.ca/search?q=crime) and plots it on Google Maps to help newcomers navigate the Toronto Metropolitan Area safely. View the project here: https://dhruv-m-shah.github.io/CrimeSeen/docs/
 
 Team Members:
 - <font size="-4000">Sufiyaan Nadeem</font>,
