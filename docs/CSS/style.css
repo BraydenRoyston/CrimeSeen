@@ -1,0 +1,44 @@
+ul.project_bar {
+    list-style: none;
+    padding-top: 8px;
+    margin: 0 auto;
+    margin-left: 170px;
+}
+
+li.project_bar {
+    float: left;
+    margin: 4px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 8px 1px #888888;
+}
+
+a.project_bar {
+    font-size: 22px;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+
+.project_title {
+    width: 100%;
+    font-size: 50px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+html {
+    height: 100%
+}
+
+body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+#map {
+    height: 100%
+}
