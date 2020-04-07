@@ -15,7 +15,7 @@ Team Members:
 ![crimeseen_capture](https://user-images.githubusercontent.com/42727015/56872902-2bdba200-69fc-11e9-8ee1-b5d9b68cdd6b.JPG)
 
  
- Screen shots of mobile application -
+ Screen shots of mobile application:
  
  ![crime_seen_mobile_screenshot](https://user-images.githubusercontent.com/42727015/51572162-8b149e00-1e72-11e9-9e79-40ed3c55fa05.PNG) ![crime_seen_mobile_screenshot_correct](https://user-images.githubusercontent.com/42727015/51572276-e47ccd00-1e72-11e9-8779-c5654cf68bd7.PNG)
 
