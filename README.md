@@ -10,7 +10,7 @@ Team Members:
 - Brayden Royston
 <p style="font-size:2px">
   
-  Screen shot of web application:
+Screen shot of web application:
   
 ![crimeseen_capture](https://user-images.githubusercontent.com/42727015/56872902-2bdba200-69fc-11e9-8ee1-b5d9b68cdd6b.JPG)
 
